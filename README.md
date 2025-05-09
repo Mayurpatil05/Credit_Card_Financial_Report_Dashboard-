@@ -8,12 +8,17 @@ This project presents a comprehensive Power BI dashboard built using credit card
 
 The solution is divided into two key reports:
 
+![Image](https://github.com/user-attachments/assets/f145464c-f328-44aa-a8e9-11ac6e1485ef)
+
 ### 📌 1. **Credit Card Transaction Report**
 - **Quarterly Revenue & Transaction Volume**
 - **Revenue by Expenditure Type** (Bills, Entertainment, Fuel, Grocery, etc.)
 - **Revenue by Card Usage** (Swipe, Chip, Online)
 - **Performance by Card Category** (Blue, Silver, Gold, Platinum)
 - **Interest Earned per Card Type**
+
+![Image](https://github.com/user-attachments/assets/a6b96da5-adee-4d17-8606-11765f2e3f52)
+
 
 ### 📌 2. **Credit Card Customer Report**
 - **Revenue by Income, Age, and Education**
